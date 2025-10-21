@@ -1,2 +1,1 @@
-# GoCorona
-Second site
+# mishani4ka.github.io
